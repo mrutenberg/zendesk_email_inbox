@@ -2,10 +2,8 @@
   <span class="logo"/>
   <h3>{{setting "name"}}</h3>
 </header>
-<div>{{t "description"}}</div>
-<section data-main/>
+<section data-main />
 <footer>
-  <a href="mailto:{{author.email}}">
-    {{author.name}}
-  </a>
+  <hr />
+  <p>{{t "global.footer"}}</p>
 </footer>
