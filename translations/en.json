@@ -1,0 +1,27 @@
+{
+  "app": {
+    "package": "email_inbox",
+    "description":  {
+      "value": "app description here",
+      "title": "app description"
+    }
+  },
+
+  "description": {
+    "value": "",
+    "title": "in app instruction"
+  },
+
+  "item_a": {
+    "value": "item_a_class",
+    "title": "Message on the class object"
+  },
+
+  "errors": {
+    "save_hook": {
+      "title": "Error message when the agent chooses cancel",
+      "value": "This ticket was not saved as you chose to cancel."
+    }
+  }
+  
+}

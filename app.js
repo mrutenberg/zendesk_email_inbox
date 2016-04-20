@@ -1,0 +1,12 @@
+(function() {
+
+  return {
+
+    storage: {},
+
+    events: {
+      
+    },
+
+  };
+}());

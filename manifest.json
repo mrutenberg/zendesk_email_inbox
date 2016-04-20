@@ -1,0 +1,13 @@
+{
+  "name": "Email Inbox",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "singleInstall": true,
+  "location": ["nav_bar"],
+  "version": "1.0",
+  "frameworkVersion": "1.0"
+}
